@@ -1,6 +1,4 @@
-# RBI Take Home Assignment Submission - Raunak Bajaj
-
-This is my submission for the Restaurant Brands International Technical Development Program Internship! I had a great time building the Node.js API and Frontend for this assignment! Below is some information regarding my submission.
+# Tennis Score Counter
 
 # Technologies Used
  - Node.js for the API
