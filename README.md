@@ -27,7 +27,7 @@ You should now have a running instance of Mongodb!
 
 ## Server
 
-Download the submission package and, in a separate terminal window, cd to /rbi-tennis-assignment/server
+In a separate terminal window, clone the repository and cd to /rbi-tennis-assignment/server
 
 Install the necessary packages from the package.json file with the following command:
 
